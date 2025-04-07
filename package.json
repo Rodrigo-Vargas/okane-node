@@ -1,0 +1,13 @@
+{
+  "name": "okane",
+  "version": "0.1.0",
+  "author": "Rodrigo Vargas",
+  "scripts": {
+    "test": "tsdx test"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^29.7.0",
+    "tsdx": "^0.14.1"
+  }
+}
